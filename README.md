@@ -1,0 +1,2 @@
+# minicurso-git
+Olá mundo!
